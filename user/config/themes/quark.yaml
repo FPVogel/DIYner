@@ -1,0 +1,24 @@
+enabled: true
+production-mode: true
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: true
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: true
+  icons: true
+custom_logo:
+  user/themes/quark/images/logo/default-monochrome-white.svg:
+    name: default-monochrome-white.svg
+    type: image/svg+xml
+    size: 14743
+    path: user/themes/quark/images/logo/default-monochrome-white.svg
+custom_logo_mobile:
+  user/themes/quark/images/logo/isolated-monochrome-white.svg:
+    name: isolated-monochrome-white.svg
+    type: image/svg+xml
+    size: 2940
+    path: user/themes/quark/images/logo/isolated-monochrome-white.svg

@@ -1,0 +1,9 @@
+version: '1.1'
+timestamp: 1638240274
+count: 1
+index:
+  admin:
+    storage_key: admin
+    storage_timestamp: 1638240274
+    key: admin
+    email: merlinglander@vogelhosting.de

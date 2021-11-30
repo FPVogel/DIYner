@@ -1,0 +1,11 @@
+state: enabled
+email: merlinglander@vogelhosting.de
+fullname: 'Merlin Glander'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$05Ol4xi.xb1lWymZ0MJbz.p4V.Awo/.ar1uI1/eMLHDOVnAlYv4aa
