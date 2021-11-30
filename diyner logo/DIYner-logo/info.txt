@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: ArimaKoshi-SemiBold
+font link: https://fonts.google.com/specimen/Arima+Madurai
+font author: NDISCOVER
+font author site: http://www.ndiscovered.com/
+Slogan Font: Aleo-Light.otf
+
+icon designer: Alfredo @ IconsAlfredo.com
+icon designer link: /AlfredoCreates
+        
+{"bg":"transparent","icon-gradient-0":"#421E56","icon-gradient-1":"#BC6083","font":"#000000","slogan":"#141414"}
+      
